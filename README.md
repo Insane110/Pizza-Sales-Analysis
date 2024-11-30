@@ -4,7 +4,7 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 # Dataset Overview
 Dataset contains valuable information that could help us optimize our operations, boost sales, and enhance customer satisfaction. Here's a quick rundown of what you can expect from the dataset:
 
-- Date and Time: We have meticulously recorded the date and time of each order, allowing us to analyze customer behavior and identify potential peak hours.
+- Date and Time: Meticulously recorded the date and time of each order, allowing us to analyze customer behavior and identify potential peak hours.
 
 - Pizza Details: Each entry includes comprehensive details about the pizzas ordered, including their types, sizes, quantities, prices, and the tantalizing ingredients that create an unforgettable culinary experience.
 
