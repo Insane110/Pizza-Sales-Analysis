@@ -23,7 +23,7 @@ Dataset contains valuable information that could help us optimize our operations
 
 - Daily Trend for Total Orders: By days of the week, trend for sales throughout the year.
 
-- Monthly Trend for Total Orders: Monthly Trend for Total Orders to analuze seasonality.
+- Monthly Trend for Total Orders: Monthly Trend for Total Orders to analyze seasonality.
 
 - % of Sales by Pizza Category: Percentage of total sales, each 4 Categories contributes.
 
@@ -35,4 +35,4 @@ Dataset contains valuable information that could help us optimize our operations
 
 - Number of Customers each day & Busiest hours: Number of customer served each day and busy operating hours.
 
-- Average Orders & Pizzaper Day:Average Orders placed per Day & Pizzas sold per day.
+- Average Orders & Pizza per Day:Average Orders placed per Day & Pizzas sold per day.
